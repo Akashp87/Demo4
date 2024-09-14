@@ -1,4 +1,4 @@
-# Web UI Automation Project
+# Entrata.com Project
 
 This project is designed for automating tests for the Entrata website's user interface (UI). It utilizes Selenium WebDriver and TestNG for test automation.
 
@@ -44,4 +44,4 @@ This project is designed for automating tests for the Entrata website's user int
 
 ## Author
 
-[Aditi Narlawar]
+[Akash Panchal]
